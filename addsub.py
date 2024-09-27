@@ -32,5 +32,4 @@ elif choice == '4':
 else :
     print("잘못된 선택")
 
-
-print("이건 feature-branch1 의 내용입니다.")
+print("이것은 feature-branch2의 내용입니다.")
